@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: فونت ناحیه ادمین برنا اندیشان
+Plugin Name: فونت ادمین 
 Plugin URI: heycode.ir
 Description: فونت ادمین
 Author: hamidfiruzi
