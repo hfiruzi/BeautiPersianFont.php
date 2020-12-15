@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: فونت ادمین 
+Plugin Name: fontadminwp
 Plugin URI: heycode.ir
-Description: فونت ادمین
+Description: admin font
 Author: hamidfiruzi
 Author URI: https://heycode.ir
-Version: 0.0.1
+Version: 1.0.0
 */
 
 if ( !defined('ABSPATH') ) {
